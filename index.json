@@ -31766,6 +31766,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: DocTruyen3Q",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.doctruyen3q",
+    "apk": "tachiyomi-vi.doctruyen3q-v1.4.6.apk",
+    "lang": "vi",
+    "code": 6,
+    "version": "1.4.6",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "DocTruyen3Q",
+        "lang": "vi",
+        "id": "6168143505244976507",
+        "baseUrl": "https://doctruyen3qk.pro/",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: DocTruyen5s",
     "pkg": "eu.kanade.tachiyomi.extension.vi.doctruyen5s",
     "apk": "tachiyomi-vi.doctruyen5s-v1.4.6.apk",
