@@ -25775,10 +25775,10 @@
   {
     "name": "Tachiyomi: Tu Sach Xinh Xinh",
     "pkg": "eu.kanade.tachiyomi.extension.vi.tusachxinhxinh",
-    "apk": "tachiyomi-vi.tusachxinhxinh-v1.4.4.apk",
+    "apk": "tachiyomi-vi.tusachxinhxinh-v1.4.5.apk",
     "lang": "vi",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "sources": [
       {
