@@ -15983,6 +15983,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: WebtoonXYZ",
+    "pkg": "eu.kanade.tachiyomi.extension.en.webtoonxyz",
+    "apk": "tachiyomi-en.webtoonxyz-v1.4.48.apk",
+    "lang": "en",
+    "code": 48,
+    "version": "1.4.48",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "WebtoonXYZ",
+        "lang": "en",
+        "id": "6750082404202711318",
+        "baseUrl": "https://www.webtoon.xyz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Weeb Central",
     "pkg": "eu.kanade.tachiyomi.extension.en.weebcentral",
     "apk": "tachiyomi-en.weebcentral-v1.4.16.apk",
