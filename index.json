@@ -27354,6 +27354,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: MeHentai",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.mehentai",
+    "apk": "tachiyomi-vi.mehentai-v1.4.4.apk",
+    "lang": "vi",
+    "code": 4,
+    "version": "1.4.4",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "MeHentai",
+        "lang": "vi",
+        "id": "1503074002208879050",
+        "baseUrl": "https://mehentai.tv",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: NetTruyenCO (unoriginal)",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyenco",
     "apk": "tachiyomi-vi.nettruyenco-v1.4.14.apk",
