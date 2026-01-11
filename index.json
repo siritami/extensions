@@ -2,17 +2,17 @@
   {
     "name": "Tachiyomi: AHottie",
     "pkg": "eu.kanade.tachiyomi.extension.all.ahottie",
-    "apk": "tachiyomi-all.ahottie-v1.4.1.apk",
+    "apk": "tachiyomi-all.ahottie-v1.4.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
         "name": "AHottie",
         "lang": "all",
         "id": "6289731484943315811",
-        "baseUrl": "https://ahottie.net",
+        "baseUrl": "https://ahottie.top",
         "versionId": 1
       }
     ]
@@ -259,17 +259,17 @@
   {
     "name": "Tachiyomi: BaoBua",
     "pkg": "eu.kanade.tachiyomi.extension.all.baobua",
-    "apk": "tachiyomi-all.baobua-v1.4.1.apk",
+    "apk": "tachiyomi-all.baobua-v1.4.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
         "name": "BaoBua",
         "lang": "all",
         "id": "514187608699312366",
-        "baseUrl": "https://www.baobua.net",
+        "baseUrl": "https://baobua.net",
         "versionId": 1
       }
     ]
@@ -277,745 +277,731 @@
   {
     "name": "Tachiyomi: Bato.to",
     "pkg": "eu.kanade.tachiyomi.extension.all.batoto",
-    "apk": "tachiyomi-all.batoto-v1.4.58.apk",
+    "apk": "tachiyomi-all.batoto-v1.4.59.apk",
     "lang": "all",
-    "code": 58,
-    "version": "1.4.58",
+    "code": 59,
+    "version": "1.4.59",
     "nsfw": 1,
     "sources": [
       {
         "name": "Bato.to",
         "lang": "all",
         "id": "4531444389842992129",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "en",
         "id": "7890050626002177109",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ar",
         "id": "5096384382752696500",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "bg",
         "id": "6495955027968241042",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "zh",
         "id": "3158884414181268012",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "cs",
         "id": "7576440018916883094",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "da",
         "id": "5316229865560945519",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "nl",
         "id": "2451829407813501910",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "fil",
         "id": "313424729392609270",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "fi",
         "id": "1251974539278082369",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "fr",
         "id": "5836611700806032846",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "de",
         "id": "139923318887989403",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "el",
         "id": "8473797648002215114",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "he",
         "id": "2408078218204857839",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "hi",
         "id": "7084618587403216116",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "hu",
         "id": "4530528320166985351",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "id",
         "id": "1720762928205210073",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "it",
         "id": "2160637426591463299",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ja",
         "id": "5203173367987472935",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ko",
         "id": "8427126052180576160",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ms",
         "id": "5990851390838920547",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "pl",
         "id": "3394902802486008664",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "pt",
         "id": "6179954312892676695",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "pt-BR",
         "id": "3484603489360202582",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ro",
         "id": "5145326243818977877",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ru",
         "id": "5188408707919914484",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "es",
         "id": "6204540321264480489",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "es-419",
         "id": "7185350469868201379",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "sv",
         "id": "8913559243351013088",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "th",
-        "id": "2706040171335467974",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "tr",
         "id": "6468780937168595917",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "uk",
         "id": "1782621454240367603",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "vi",
         "id": "3164440079022386695",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "af",
         "id": "9193031427501250739",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "sq",
         "id": "6847493053848422645",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "am",
         "id": "2526577153570564673",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "hy",
         "id": "1586739058301487676",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "az",
         "id": "713056016405537102",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "be",
         "id": "7232505995053152192",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "bn",
         "id": "3402500071662542228",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "bs",
         "id": "6908072148468152785",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "my",
         "id": "5762198617335159887",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "km",
         "id": "6796421298740947063",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ca",
         "id": "1392737883785118332",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ceb",
         "id": "5837595011776494775",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "zh-Hans",
         "id": "2818874445640189582",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "zh-Hant",
         "id": "38886079663327225",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "hr",
         "id": "7668596971407381245",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "eo",
-        "id": "3509865042379188717",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "et",
         "id": "3006949234613526276",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "fo",
         "id": "7703342981951715697",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ka",
         "id": "5905178459829728484",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "gn",
         "id": "4894494172631551657",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "gu",
         "id": "4891408516910497422",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ht",
         "id": "8773112916243804182",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ha",
         "id": "8106799273220933842",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "is",
         "id": "2566480683201153375",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ig",
         "id": "3424308522705464084",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ga",
         "id": "3707936942181329862",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "jv",
         "id": "6913455010116693655",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "kn",
         "id": "1088655658033412867",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "kk",
         "id": "4920750007190577961",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ku",
         "id": "5924797894030210791",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ky",
         "id": "191250206471387059",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "lo",
         "id": "374730826849442838",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "lv",
         "id": "7483906778681041617",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "lt",
         "id": "2909322037877472903",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "lb",
         "id": "7998953198185983599",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "mk",
         "id": "4493782214399724320",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "mg",
         "id": "7844022624810291146",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ml",
         "id": "3443092856670936701",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "mt",
         "id": "7404477799743142598",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "mi",
         "id": "8225972509362693639",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "mr",
         "id": "6030352007472109485",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "mo",
         "id": "8871355786189601023",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "mn",
         "id": "1683078263344915307",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ne",
         "id": "128549604427027000",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "no",
         "id": "3907280050995528877",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ny",
         "id": "5715855562377571991",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ps",
         "id": "6105060607877949219",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "fa",
         "id": "1302226087224798096",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "rm",
         "id": "8327243820444225063",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "sm",
         "id": "2859258045373504715",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "sr",
         "id": "6589258274800936036",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "sh",
         "id": "2675056792049767704",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "st",
         "id": "7963579117812866356",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "sn",
         "id": "2403628417982139515",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "sd",
         "id": "7126242426383705161",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "si",
         "id": "2913942844788726362",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "sk",
         "id": "7182321933689697136",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "sl",
         "id": "8410771330361157651",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "so",
         "id": "2909968758031724143",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "sw",
         "id": "1981693893234457639",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "tg",
         "id": "8403246223033985015",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ta",
         "id": "8440188015298648289",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "te",
+        "id": "6410585353225177292",
+        "baseUrl": "https://ato.to",
+        "versionId": 1
+      },
+      {
+        "name": "Bato.to",
+        "lang": "th",
+        "id": "2706040171335467974",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ti",
         "id": "5554111601105349413",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "to",
         "id": "2410241309695200602",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "tk",
         "id": "3635004776434724843",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ur",
         "id": "7602124517732860619",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "uz",
         "id": "4555523281386098571",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "yo",
         "id": "727983903143794104",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "zu",
         "id": "3786926370127246407",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "other",
         "id": "1897863245819012494",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "eu",
-        "id": "3468748569008741067",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
-        "versionId": 1
-      },
-      {
-        "name": "Bato.to",
-        "lang": "pt-PT",
-        "id": "2823929639670313992",
-        "baseUrl": "https://ato.to#, https://dto.to#, https://fto.to#, https://hto.to#, https://jto.to#, https://lto.to#, https://mto.to#, https://nto.to#, https://vto.to#, https://wto.to#, https://xto.to#, https://yto.to#, https://vba.to#, https://wba.to#, https://xba.to#, https://yba.to#, https://zba.to#, https://bato.ac#, https://bato.bz#, https://bato.cc#, https://bato.cx#, https://bato.id#, https://bato.pw#, https://bato.sh#, https://bato.to#, https://bato.vc#, https://bato.day#, https://bato.red#, https://bato.run#, https://batoto.in#, https://batoto.tv#, https://batotoo.com#, https://batotwo.com#, https://batpub.com#, https://batread.com#, https://battwo.com#, https://xbato.com#, https://xbato.net#, https://xbato.org#, https://zbato.com#, https://zbato.net#, https://zbato.org#, https://comiko.net#, https://comiko.org#, https://mangatoto.com#, https://mangatoto.net#, https://mangatoto.org#, https://batocomic.com#, https://batocomic.net#, https://batocomic.org#, https://readtoto.com#, https://readtoto.net#, https://readtoto.org#, https://kuku.to#, https://okok.to#, https://ruru.to#, https://xdxd.to#, https://batocc.com",
+        "baseUrl": "https://ato.to",
         "versionId": 1
       }
     ]
@@ -1791,10 +1777,10 @@
   {
     "name": "Tachiyomi: Comic Fury",
     "pkg": "eu.kanade.tachiyomi.extension.all.comicfury",
-    "apk": "tachiyomi-all.comicfury-v1.4.5.apk",
+    "apk": "tachiyomi-all.comicfury-v1.4.6.apk",
     "lang": "all",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "sources": [
       {
@@ -4524,10 +4510,10 @@
   {
     "name": "Tachiyomi: Luscious",
     "pkg": "eu.kanade.tachiyomi.extension.all.luscious",
-    "apk": "tachiyomi-all.luscious-v1.4.23.apk",
+    "apk": "tachiyomi-all.luscious-v1.4.24.apk",
     "lang": "all",
-    "code": 23,
-    "version": "1.4.23",
+    "code": 24,
+    "version": "1.4.24",
     "nsfw": 1,
     "sources": [
       {
@@ -5617,10 +5603,10 @@
   {
     "name": "Tachiyomi: MangaPark",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangapark",
-    "apk": "tachiyomi-all.mangapark-v1.4.24.apk",
+    "apk": "tachiyomi-all.mangapark-v1.4.25.apk",
     "lang": "all",
-    "code": 24,
-    "version": "1.4.24",
+    "code": 25,
+    "version": "1.4.25",
     "nsfw": 1,
     "sources": [
       {
@@ -7833,10 +7819,10 @@
   {
     "name": "Tachiyomi: Pixiv",
     "pkg": "eu.kanade.tachiyomi.extension.all.pixiv",
-    "apk": "tachiyomi-all.pixiv-v1.4.10.apk",
+    "apk": "tachiyomi-all.pixiv-v1.4.11.apk",
     "lang": "all",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 1,
     "sources": [
       {
@@ -10204,10 +10190,10 @@
   {
     "name": "Tachiyomi: Asura Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.asurascans",
-    "apk": "tachiyomi-en.asurascans-v1.4.50.apk",
+    "apk": "tachiyomi-en.asurascans-v1.4.52.apk",
     "lang": "en",
-    "code": 50,
-    "version": "1.4.50",
+    "code": 52,
+    "version": "1.4.52",
     "nsfw": 0,
     "sources": [
       {
@@ -11186,10 +11172,10 @@
   {
     "name": "Tachiyomi: Eva Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.evascans",
-    "apk": "tachiyomi-en.evascans-v1.4.30.apk",
+    "apk": "tachiyomi-en.evascans-v1.4.31.apk",
     "lang": "en",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "sources": [
       {
@@ -14981,6 +14967,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Novel24h",
+    "pkg": "eu.kanade.tachiyomi.extension.en.novel24h",
+    "apk": "tachiyomi-en.novel24h-v1.4.45.apk",
+    "lang": "en",
+    "code": 45,
+    "version": "1.4.45",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "24HNovel",
+        "lang": "en",
+        "id": "8392183862780411192",
+        "baseUrl": "https://24hnovel.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: NovelCrow",
     "pkg": "eu.kanade.tachiyomi.extension.en.novelcrow",
     "apk": "tachiyomi-en.novelcrow-v1.4.45.apk",
@@ -15361,10 +15365,10 @@
   {
     "name": "Tachiyomi: Philia Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.philiascans",
-    "apk": "tachiyomi-en.philiascans-v1.4.45.apk",
+    "apk": "tachiyomi-en.philiascans-v1.4.46.apk",
     "lang": "en",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 0,
     "sources": [
       {
@@ -15469,10 +15473,10 @@
   {
     "name": "Tachiyomi: Qi Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.qiscans",
-    "apk": "tachiyomi-en.qiscans-v1.4.13.apk",
+    "apk": "tachiyomi-en.qiscans-v1.4.15.apk",
     "lang": "en",
-    "code": 13,
-    "version": "1.4.13",
+    "code": 15,
+    "version": "1.4.15",
     "nsfw": 0,
     "sources": [
       {
@@ -16765,18 +16769,18 @@
   {
     "name": "Tachiyomi: Tapas",
     "pkg": "eu.kanade.tachiyomi.extension.en.tapastic",
-    "apk": "tachiyomi-en.tapastic-v1.4.22.apk",
+    "apk": "tachiyomi-en.tapastic-v1.4.24.apk",
     "lang": "en",
-    "code": 22,
-    "version": "1.4.22",
+    "code": 24,
+    "version": "1.4.24",
     "nsfw": 1,
     "sources": [
       {
         "name": "Tapas",
         "lang": "en",
-        "id": "3825434541981130345",
+        "id": "5554748812413853237",
         "baseUrl": "https://tapas.io",
-        "versionId": 1
+        "versionId": 2
       }
     ]
   },
@@ -16855,17 +16859,17 @@
   {
     "name": "Tachiyomi: The Blank",
     "pkg": "eu.kanade.tachiyomi.extension.en.theblank",
-    "apk": "tachiyomi-en.theblank-v1.4.50.apk",
+    "apk": "tachiyomi-en.theblank-v1.4.51.apk",
     "lang": "en",
-    "code": 50,
-    "version": "1.4.50",
+    "code": 51,
+    "version": "1.4.51",
     "nsfw": 1,
     "sources": [
       {
         "name": "The Blank",
         "lang": "en",
         "id": "7514642512113015247",
-        "baseUrl": "https://beta.theblank.net",
+        "baseUrl": "https://theblank.net",
         "versionId": 2
       }
     ]
@@ -19929,17 +19933,17 @@
   {
     "name": "Tachiyomi: AnimeSama",
     "pkg": "eu.kanade.tachiyomi.extension.fr.animesama",
-    "apk": "tachiyomi-fr.animesama-v1.4.12.apk",
+    "apk": "tachiyomi-fr.animesama-v1.4.13.apk",
     "lang": "fr",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 0,
     "sources": [
       {
         "name": "AnimeSama",
         "lang": "fr",
         "id": "5104384223103778991",
-        "baseUrl": "https://anime-sama.si",
+        "baseUrl": "https://anime-sama.pw",
         "versionId": 1
       }
     ]
@@ -20289,10 +20293,10 @@
   {
     "name": "Tachiyomi: Japscan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.japscan",
-    "apk": "tachiyomi-fr.japscan-v1.4.54.apk",
+    "apk": "tachiyomi-fr.japscan-v1.4.55.apk",
     "lang": "fr",
-    "code": 54,
-    "version": "1.4.54",
+    "code": 55,
+    "version": "1.4.55",
     "nsfw": 0,
     "sources": [
       {
@@ -21153,10 +21157,10 @@
   {
     "name": "Tachiyomi: Kiryuu",
     "pkg": "eu.kanade.tachiyomi.extension.id.kiryuu",
-    "apk": "tachiyomi-id.kiryuu-v1.4.45.apk",
+    "apk": "tachiyomi-id.kiryuu-v1.4.46.apk",
     "lang": "id",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 0,
     "sources": [
       {
@@ -22935,10 +22939,10 @@
   {
     "name": "Tachiyomi: KissLove",
     "pkg": "eu.kanade.tachiyomi.extension.ja.kisslove",
-    "apk": "tachiyomi-ja.kisslove-v1.4.17.apk",
+    "apk": "tachiyomi-ja.kisslove-v1.4.18.apk",
     "lang": "ja",
-    "code": 17,
-    "version": "1.4.17",
+    "code": 18,
+    "version": "1.4.18",
     "nsfw": 1,
     "sources": [
       {
@@ -23617,6 +23621,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: U-NEXT",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.unext",
+    "apk": "tachiyomi-ja.unext-v1.4.2.apk",
+    "lang": "ja",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "U-NEXT",
+        "lang": "ja",
+        "id": "1896940876613282856",
+        "baseUrl": "https://video.unext.jp",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Web Comic Gamma",
     "pkg": "eu.kanade.tachiyomi.extension.ja.webcomicgamma",
     "apk": "tachiyomi-ja.webcomicgamma-v1.4.9.apk",
@@ -24183,10 +24205,10 @@
   {
     "name": "Tachiyomi: Astratoons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.astratoons",
-    "apk": "tachiyomi-pt.astratoons-v1.4.5.apk",
+    "apk": "tachiyomi-pt.astratoons-v1.4.6.apk",
     "lang": "pt-BR",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "sources": [
       {
@@ -24813,10 +24835,10 @@
   {
     "name": "Tachiyomi: Hunters Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.huntersscans",
-    "apk": "tachiyomi-pt.huntersscans-v1.4.54.apk",
+    "apk": "tachiyomi-pt.huntersscans-v1.4.55.apk",
     "lang": "pt-BR",
-    "code": 54,
-    "version": "1.4.54",
+    "code": 55,
+    "version": "1.4.55",
     "nsfw": 1,
     "sources": [
       {
@@ -24993,10 +25015,10 @@
   {
     "name": "Tachiyomi: Leitor de Mangá",
     "pkg": "eu.kanade.tachiyomi.extension.pt.leitordemanga",
-    "apk": "tachiyomi-pt.leitordemanga-v1.4.46.apk",
+    "apk": "tachiyomi-pt.leitordemanga-v1.4.47.apk",
     "lang": "pt-BR",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 0,
     "sources": [
       {
@@ -25263,10 +25285,10 @@
   {
     "name": "Tachiyomi: Manga Livre",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangalivre",
-    "apk": "tachiyomi-pt.mangalivre-v1.4.56.apk",
+    "apk": "tachiyomi-pt.mangalivre-v1.4.57.apk",
     "lang": "pt-BR",
-    "code": 56,
-    "version": "1.4.56",
+    "code": 57,
+    "version": "1.4.57",
     "nsfw": 0,
     "sources": [
       {
@@ -25371,10 +25393,10 @@
   {
     "name": "Tachiyomi: Manga Stop",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangastop",
-    "apk": "tachiyomi-pt.mangastop-v1.4.36.apk",
+    "apk": "tachiyomi-pt.mangastop-v1.4.38.apk",
     "lang": "pt-BR",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "sources": [
       {
@@ -25407,10 +25429,10 @@
   {
     "name": "Tachiyomi: Mango Toons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangotoons",
-    "apk": "tachiyomi-pt.mangotoons-v1.4.1.apk",
+    "apk": "tachiyomi-pt.mangotoons-v1.4.2.apk",
     "lang": "pt-BR",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
@@ -26089,19 +26111,37 @@
     ]
   },
   {
+    "name": "Tachiyomi: Skky Toons",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.skkytoons",
+    "apk": "tachiyomi-pt.skkytoons-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "SkkyToons",
+        "lang": "pt-BR",
+        "id": "1311184945882398910",
+        "baseUrl": "https://www.skkyscan.fun",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Nexus Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.spectralscan",
-    "apk": "tachiyomi-pt.spectralscan-v1.4.56.apk",
+    "apk": "tachiyomi-pt.spectralscan-v1.4.57.apk",
     "lang": "pt-BR",
-    "code": 56,
-    "version": "1.4.56",
+    "code": 57,
+    "version": "1.4.57",
     "nsfw": 1,
     "sources": [
       {
         "name": "Nexus Scan",
         "lang": "pt-BR",
         "id": "5304928452449566995",
-        "baseUrl": "https://nexustoons.site",
+        "baseUrl": "https://nexustoons.com",
         "versionId": 1
       }
     ]
@@ -26109,10 +26149,10 @@
   {
     "name": "Tachiyomi: Yomu Comics",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sssscanlator",
-    "apk": "tachiyomi-pt.sssscanlator-v1.4.39.apk",
+    "apk": "tachiyomi-pt.sssscanlator-v1.4.40.apk",
     "lang": "pt-BR",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 0,
     "sources": [
       {
@@ -26415,10 +26455,10 @@
   {
     "name": "Tachiyomi: Wolftoon",
     "pkg": "eu.kanade.tachiyomi.extension.pt.wolftoon",
-    "apk": "tachiyomi-pt.wolftoon-v1.4.2.apk",
+    "apk": "tachiyomi-pt.wolftoon-v1.4.3.apk",
     "lang": "pt-BR",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "sources": [
       {
@@ -26955,10 +26995,10 @@
   {
     "name": "Tachiyomi: Senkognito",
     "pkg": "eu.kanade.tachiyomi.extension.ru.senkognito",
-    "apk": "tachiyomi-ru.senkognito-v1.4.9.apk",
+    "apk": "tachiyomi-ru.senkognito-v1.4.10.apk",
     "lang": "ru",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 1,
     "sources": [
       {
@@ -26973,10 +27013,10 @@
   {
     "name": "Tachiyomi: Senkuro",
     "pkg": "eu.kanade.tachiyomi.extension.ru.senkuro",
-    "apk": "tachiyomi-ru.senkuro-v1.4.8.apk",
+    "apk": "tachiyomi-ru.senkuro-v1.4.9.apk",
     "lang": "ru",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 0,
     "sources": [
       {
@@ -28629,18 +28669,18 @@
   {
     "name": "Tachiyomi: Merlin Scans",
     "pkg": "eu.kanade.tachiyomi.extension.tr.merlinscans",
-    "apk": "tachiyomi-tr.merlinscans-v1.4.31.apk",
+    "apk": "tachiyomi-tr.merlinscans-v1.4.33.apk",
     "lang": "tr",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "sources": [
       {
         "name": "Merlin Scans",
         "lang": "tr",
-        "id": "8373525628494692390",
-        "baseUrl": "https://merlinscans.com",
-        "versionId": 1
+        "id": "4883620005315879682",
+        "baseUrl": "https://merlintoon.com",
+        "versionId": 2
       }
     ]
   },
@@ -28827,18 +28867,18 @@
   {
     "name": "Tachiyomi: Ragnar Scans",
     "pkg": "eu.kanade.tachiyomi.extension.tr.ragnarscans",
-    "apk": "tachiyomi-tr.ragnarscans-v1.4.45.apk",
+    "apk": "tachiyomi-tr.ragnarscans-v1.4.46.apk",
     "lang": "tr",
-    "code": 45,
-    "version": "1.4.45",
-    "nsfw": 1,
+    "code": 46,
+    "version": "1.4.46",
+    "nsfw": 0,
     "sources": [
       {
         "name": "Ragnar Scans",
         "lang": "tr",
-        "id": "752290186361483902",
+        "id": "1571842183434448758",
         "baseUrl": "https://ragnarscans.com",
-        "versionId": 1
+        "versionId": 2
       }
     ]
   },
@@ -29403,17 +29443,17 @@
   {
     "name": "Tachiyomi: DocTruyen3Q",
     "pkg": "eu.kanade.tachiyomi.extension.vi.doctruyen3q",
-    "apk": "tachiyomi-vi.doctruyen3q-v1.4.20.apk",
+    "apk": "tachiyomi-vi.doctruyen3q-v1.4.21.apk",
     "lang": "vi",
-    "code": 20,
-    "version": "1.4.20",
+    "code": 21,
+    "version": "1.4.21",
     "nsfw": 1,
     "sources": [
       {
         "name": "DocTruyen3Q",
         "lang": "vi",
         "id": "6168143505244976507",
-        "baseUrl": "https://doctruyen3qui19.com",
+        "baseUrl": "https://doctruyen3qui20.com",
         "versionId": 1
       }
     ]
@@ -29493,17 +29533,17 @@
   {
     "name": "Tachiyomi: HangTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hangtruyen",
-    "apk": "tachiyomi-vi.hangtruyen-v1.4.1.apk",
+    "apk": "tachiyomi-vi.hangtruyen-v1.4.2.apk",
     "lang": "vi",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
         "name": "HangTruyen",
         "lang": "vi",
         "id": "2623135262928921971",
-        "baseUrl": "https://hangtruyen.top",
+        "baseUrl": "https://hangtruyen.page",
         "versionId": 1
       }
     ]
@@ -29529,17 +29569,17 @@
   {
     "name": "Tachiyomi: HentaiVN.plus",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaivnplus",
-    "apk": "tachiyomi-vi.hentaivnplus-v1.4.60.apk",
+    "apk": "tachiyomi-vi.hentaivnplus-v1.4.61.apk",
     "lang": "vi",
-    "code": 60,
-    "version": "1.4.60",
+    "code": 61,
+    "version": "1.4.61",
     "nsfw": 1,
     "sources": [
       {
         "name": "HentaiVN.plus",
         "lang": "vi",
         "id": "7015430763374257867",
-        "baseUrl": "https://hentaivn.gold",
+        "baseUrl": "https://hentaivn.cheap",
         "versionId": 1
       }
     ]
@@ -29727,17 +29767,17 @@
   {
     "name": "Tachiyomi: Top Truyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.toptruyen",
-    "apk": "tachiyomi-vi.toptruyen-v1.4.23.apk",
+    "apk": "tachiyomi-vi.toptruyen-v1.4.24.apk",
     "lang": "vi",
-    "code": 23,
-    "version": "1.4.23",
+    "code": 24,
+    "version": "1.4.24",
     "nsfw": 1,
     "sources": [
       {
         "name": "Top Truyen",
         "lang": "vi",
         "id": "1166901607721102706",
-        "baseUrl": "https://www.toptruyentv11.com",
+        "baseUrl": "https://www.toptruyentv12.com",
         "versionId": 1
       }
     ]
@@ -29763,17 +29803,17 @@
   {
     "name": "Tachiyomi: FoxTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyengg",
-    "apk": "tachiyomi-vi.truyengg-v1.4.8.apk",
+    "apk": "tachiyomi-vi.truyengg-v1.4.9.apk",
     "lang": "vi",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 0,
     "sources": [
       {
         "name": "FoxTruyen",
         "lang": "vi",
         "id": "1458993267006200127",
-        "baseUrl": "https://foxtruyen.com",
+        "baseUrl": "https://foxtruyen1.com",
         "versionId": 1
       }
     ]
@@ -29817,17 +29857,17 @@
   {
     "name": "Tachiyomi: TruyenTranh3Q",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyentranh3q",
-    "apk": "tachiyomi-vi.truyentranh3q-v1.4.4.apk",
+    "apk": "tachiyomi-vi.truyentranh3q-v1.4.5.apk",
     "lang": "vi",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "sources": [
       {
         "name": "TruyenTranh3Q",
         "lang": "vi",
         "id": "8738237169240254245",
-        "baseUrl": "https://truyentranh3qe.com",
+        "baseUrl": "https://truyentranh3qk.com",
         "versionId": 1
       }
     ]
@@ -29907,17 +29947,17 @@
   {
     "name": "Tachiyomi: VlogTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.vlogtruyen",
-    "apk": "tachiyomi-vi.vlogtruyen-v1.4.19.apk",
+    "apk": "tachiyomi-vi.vlogtruyen-v1.4.20.apk",
     "lang": "vi",
-    "code": 19,
-    "version": "1.4.19",
+    "code": 20,
+    "version": "1.4.20",
     "nsfw": 1,
     "sources": [
       {
         "name": "VlogTruyen",
         "lang": "vi",
         "id": "6425642624422299254",
-        "baseUrl": "https://vlogtruyen59.com",
+        "baseUrl": "https://vlogtruyen60.com",
         "versionId": 1
       }
     ]
