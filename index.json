@@ -29089,6 +29089,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: NewTruyenTranh",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.newtruyentranh",
+    "apk": "tachiyomi-vi.newtruyentranh-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "NewTruyenTranh",
+        "lang": "vi",
+        "id": "2947299136081074220",
+        "baseUrl": "https://newtruyenhot.4share.me",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: NhatTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nhattruyen",
     "apk": "tachiyomi-vi.nhattruyen-v1.4.28.apk",
