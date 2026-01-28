@@ -29071,6 +29071,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: MiMiHentai",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.mimihentai",
+    "apk": "tachiyomi-vi.mimihentai-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "MiMiHentai",
+        "lang": "vi",
+        "id": "8070257113818912648",
+        "baseUrl": "https://mimihentai.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: NetTruyenCO (unoriginal)",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyenco",
     "apk": "tachiyomi-vi.nettruyenco-v1.4.15.apk",
