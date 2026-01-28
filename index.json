@@ -28999,6 +28999,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: HentaiVNx",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.hentaivnx",
+    "apk": "tachiyomi-vi.hentaivnx-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "HentaiVNx",
+        "lang": "vi",
+        "id": "5268102422164410592",
+        "baseUrl": "https://www.hentaivnx.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: LXManga",
     "pkg": "eu.kanade.tachiyomi.extension.vi.lxhentai",
     "apk": "tachiyomi-vi.lxhentai-v1.4.25.apk",
