@@ -29091,10 +29091,10 @@
   {
     "name": "Tachiyomi: MiMi",
     "pkg": "eu.kanade.tachiyomi.extension.vi.mimi",
-    "apk": "tachiyomi-vi.mimi-v1.4.3.apk",
+    "apk": "tachiyomi-vi.mimi-v1.4.2.apk",
     "lang": "vi",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
@@ -29444,6 +29444,24 @@
         "lang": "vi",
         "id": "6425642624422299254",
         "baseUrl": "https://vlogtruyen62.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: ZetTruyen",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.zettruyen",
+    "apk": "tachiyomi-vi.zettruyen-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "ZetTruyen",
+        "lang": "vi",
+        "id": "893747327087652119",
+        "baseUrl": "https://www.zettruyen.space",
         "versionId": 1
       }
     ]
