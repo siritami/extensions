@@ -29541,17 +29541,17 @@
   {
     "name": "Tachiyomi: NewTruyenTranh",
     "pkg": "eu.kanade.tachiyomi.extension.vi.newtruyentranh",
-    "apk": "tachiyomi-vi.newtruyentranh-v1.4.1.apk",
+    "apk": "tachiyomi-vi.newtruyentranh-v1.4.3.apk",
     "lang": "vi",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "sources": [
       {
         "name": "NewTruyenTranh",
         "lang": "vi",
         "id": "2947299136081074220",
-        "baseUrl": "https://newtruyentranh5.com",
+        "baseUrl": "https://newtruyentranh7.com",
         "versionId": 1
       }
     ]
