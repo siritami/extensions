@@ -29539,6 +29539,38 @@
     ]
   },
   {
+    "name": "Tachiyomi: MinoTruyen",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.minotruyen",
+    "apk": "tachiyomi-vi.minotruyen-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "MinoTruyen Manga",
+        "lang": "vi",
+        "id": "1911829101129863006",
+        "baseUrl": "https://minotruyenv5.xyz",
+        "versionId": 1
+      },
+      {
+        "name": "MinoTruyen Comics",
+        "lang": "vi",
+        "id": "3751671803647824606",
+        "baseUrl": "https://minotruyenv5.xyz",
+        "versionId": 1
+      },
+      {
+        "name": "MinoTruyen Hentai",
+        "lang": "vi",
+        "id": "5865133728324986123",
+        "baseUrl": "https://minotruyenv5.xyz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: NetTruyenCO (unoriginal)",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyenco",
     "apk": "tachiyomi-vi.nettruyenco-v1.4.15.apk",
