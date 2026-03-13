@@ -29505,10 +29505,10 @@
   {
     "name": "Tachiyomi: MiMi",
     "pkg": "eu.kanade.tachiyomi.extension.vi.mimi",
-    "apk": "tachiyomi-vi.mimi-v1.4.3.apk",
+    "apk": "tachiyomi-vi.mimi-v1.4.2.apk",
     "lang": "vi",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
