@@ -29679,6 +29679,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Otakusic",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.otakusic",
+    "apk": "tachiyomi-vi.otakusic-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Otakusic",
+        "lang": "vi",
+        "id": "4694155353004433186",
+        "baseUrl": "https://otakusic.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: OTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.otruyen",
     "apk": "tachiyomi-vi.otruyen-v1.4.1.apk",
