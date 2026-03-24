@@ -29685,7 +29685,7 @@
     "lang": "vi",
     "code": 1,
     "version": "1.4.1",
-    "nsfw": 0,
+    "nsfw": 1,
     "sources": [
       {
         "name": "Otakusic",
