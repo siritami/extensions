@@ -29985,6 +29985,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: TuiTruyen",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.tuitruyen",
+    "apk": "tachiyomi-vi.tuitruyen-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "TuiTruyen",
+        "lang": "vi",
+        "id": "4438807780413463687",
+        "baseUrl": "https://tuitruyen.top",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: TuSachXinhXinh",
     "pkg": "eu.kanade.tachiyomi.extension.vi.tusachxinhxinh",
     "apk": "tachiyomi-vi.tusachxinhxinh-v1.4.1.apk",
