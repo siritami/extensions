@@ -29895,6 +29895,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: TruyenHentaivn",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.truyenhentaivn",
+    "apk": "tachiyomi-vi.truyenhentaivn-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "TruyenHentaivn",
+        "lang": "vi",
+        "id": "2450247754585878955",
+        "baseUrl": "https://truyenhentaivn.club",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: TruyenQQ",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyenqq",
     "apk": "tachiyomi-vi.truyenqq-v1.4.20.apk",
