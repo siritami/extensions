@@ -29497,7 +29497,7 @@
         "name": "LuotTruyen",
         "lang": "vi",
         "id": "6560112192335153780",
-        "baseUrl": "https://luottruyen1.com",
+        "baseUrl": "https://luottruyen4.com",
         "versionId": 1
       }
     ]
@@ -29674,6 +29674,24 @@
         "lang": "vi",
         "id": "3563992092786616290",
         "baseUrl": "https://nettruyenar.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: NetTruyenViet (unoriginal)",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyenviet",
+    "apk": "tachiyomi-vi.nettruyenviet-v1.4.8.apk",
+    "lang": "vi",
+    "code": 8,
+    "version": "1.4.8",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "NetTruyenViet (unoriginal)",
+        "lang": "vi",
+        "id": "3975552840628459451",
+        "baseUrl": "https://nettruyenviet10.com",
         "versionId": 1
       }
     ]
