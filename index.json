@@ -30039,6 +30039,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: TruyenTVN",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.truyentvn",
+    "apk": "tachiyomi-vi.truyentvn-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "TruyenTVN",
+        "lang": "vi",
+        "id": "3322517246209230294",
+        "baseUrl": "https://truyentvn.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: TruyenVN",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyenvn",
     "apk": "tachiyomi-vi.truyenvn-v1.4.61.apk",
