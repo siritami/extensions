@@ -29913,6 +29913,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Truyen18",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.truyen18",
+    "apk": "tachiyomi-vi.truyen18-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Truyen18",
+        "lang": "vi",
+        "id": "7451996450063331380",
+        "baseUrl": "https://truyen18.co",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: FoxTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyengg",
     "apk": "tachiyomi-vi.truyengg-v1.4.10.apk",
