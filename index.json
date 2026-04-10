@@ -29251,6 +29251,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: CManga",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.cmanga",
+    "apk": "tachiyomi-vi.cmanga-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "CManga",
+        "lang": "vi",
+        "id": "5975790728262229465",
+        "baseUrl": "https://cmangax16.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: DamCoNuong",
     "pkg": "eu.kanade.tachiyomi.extension.vi.damconuong",
     "apk": "tachiyomi-vi.damconuong-v1.4.1.apk",
