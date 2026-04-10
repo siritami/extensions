@@ -24281,21 +24281,21 @@
         "name": "늑대닷컴 - 웹툰",
         "lang": "ko",
         "id": "5583626852311652499",
-        "baseUrl": "https://wfwf448.com",
+        "baseUrl": "https://wfwf449.com",
         "versionId": 1
       },
       {
         "name": "늑대닷컴 - 만화책",
         "lang": "ko",
         "id": "7074060458114951398",
-        "baseUrl": "https://wfwf448.com",
+        "baseUrl": "https://wfwf449.com",
         "versionId": 1
       },
       {
         "name": "늑대닷컴 - 포토툰",
         "lang": "ko",
         "id": "4225505094399546613",
-        "baseUrl": "https://wfwf448.com",
+        "baseUrl": "https://wfwf449.com",
         "versionId": 1
       }
     ]
@@ -29681,10 +29681,10 @@
   {
     "name": "Tachiyomi: NetTruyenViet (unoriginal)",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyenviet",
-    "apk": "tachiyomi-vi.nettruyenviet-v1.4.8.apk",
+    "apk": "tachiyomi-vi.nettruyenviet-v1.4.1.apk",
     "lang": "vi",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 1,
+    "version": "1.4.1",
     "nsfw": 0,
     "sources": [
       {
