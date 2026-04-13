@@ -29305,6 +29305,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: BaoTangTruyen",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.baotangtruyen",
+    "apk": "tachiyomi-vi.baotangtruyen-v1.4.2.apk",
+    "lang": "vi",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "BaoTangTruyen",
+        "lang": "vi",
+        "id": "7769365605833742910",
+        "baseUrl": "https://baotangtruyen37.top",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: CManga",
     "pkg": "eu.kanade.tachiyomi.extension.vi.cmanga",
     "apk": "tachiyomi-vi.cmanga-v1.4.1.apk",
