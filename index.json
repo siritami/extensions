@@ -29485,6 +29485,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: HanulTruyen",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.hanultruyen",
+    "apk": "tachiyomi-vi.hanultruyen-v1.4.46.apk",
+    "lang": "vi",
+    "code": 46,
+    "version": "1.4.46",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "HanulTruyen",
+        "lang": "vi",
+        "id": "562096602087528734",
+        "baseUrl": "https://hanultruyen.info",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: CBHentai",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaicube",
     "apk": "tachiyomi-vi.hentaicube-v1.4.71.apk",
