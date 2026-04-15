@@ -29665,6 +29665,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: MeDamTruyen",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.medamtruyen",
+    "apk": "tachiyomi-vi.medamtruyen-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "MeDamTruyen",
+        "lang": "vi",
+        "id": "1359904074588349344",
+        "baseUrl": "https://metongtai.top",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MeHentai",
     "pkg": "eu.kanade.tachiyomi.extension.vi.mehentai",
     "apk": "tachiyomi-vi.mehentai-v1.4.9.apk",
