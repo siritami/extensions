@@ -29629,6 +29629,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangaVN",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.mangavn",
+    "apk": "tachiyomi-vi.mangavn-v1.4.2.apk",
+    "lang": "vi",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "MangaVN",
+        "lang": "vi",
+        "id": "8171176963506691898",
+        "baseUrl": "https://mangavn.top",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: ManhuaRock",
     "pkg": "eu.kanade.tachiyomi.extension.vi.manhuarock",
     "apk": "tachiyomi-vi.manhuarock-v1.4.15.apk",
