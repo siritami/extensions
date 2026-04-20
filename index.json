@@ -32947,10 +32947,10 @@
   {
     "name": "Tachiyomi: Seikowo",
     "pkg": "eu.kanade.tachiyomi.extension.vi.seikowo",
-    "apk": "tachiyomi-vi.seikowo-v1.4.3.apk",
+    "apk": "tachiyomi-vi.seikowo-v1.4.1.apk",
     "lang": "vi",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 1,
+    "version": "1.4.1",
     "nsfw": 1,
     "sources": [
       {
