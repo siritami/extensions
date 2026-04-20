@@ -32945,6 +32945,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Seikowo",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.seikowo",
+    "apk": "tachiyomi-vi.seikowo-v1.4.3.apk",
+    "lang": "vi",
+    "code": 3,
+    "version": "1.4.3",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Seikowo",
+        "lang": "vi",
+        "id": "3049157397733640125",
+        "baseUrl": "https://seikowo-app.blogspot.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: SoaiCaComic",
     "pkg": "eu.kanade.tachiyomi.extension.vi.soaicacomic",
     "apk": "tachiyomi-vi.soaicacomic-v1.4.1.apk",
