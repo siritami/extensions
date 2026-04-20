@@ -32501,10 +32501,10 @@
   {
     "name": "Tachiyomi: KamiComic",
     "pkg": "eu.kanade.tachiyomi.extension.vi.kamicomic",
-    "apk": "tachiyomi-vi.kamicomic-v1.4.1.apk",
+    "apk": "tachiyomi-vi.kamicomic-v1.4.2.apk",
     "lang": "vi",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
