@@ -32517,6 +32517,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: KiraKira",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.kirakira",
+    "apk": "tachiyomi-vi.kirakira-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "KiraKira",
+        "lang": "vi",
+        "id": "6706783596626868301",
+        "baseUrl": "https://truyenkira.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: LoppyToon",
     "pkg": "eu.kanade.tachiyomi.extension.vi.loppytoon",
     "apk": "tachiyomi-vi.loppytoon-v1.4.2.apk",
