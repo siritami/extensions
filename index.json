@@ -32573,16 +32573,16 @@
   {
     "name": "Tachiyomi: LXManga",
     "pkg": "eu.kanade.tachiyomi.extension.vi.lxhentai",
-    "apk": "tachiyomi-vi.lxhentai-v1.4.25.apk",
+    "apk": "tachiyomi-vi.lxhentai-v1.4.26.apk",
     "lang": "vi",
-    "code": 25,
-    "version": "1.4.25",
+    "code": 26,
+    "version": "1.4.26",
     "nsfw": 1,
     "sources": [
       {
         "name": "LXManga",
         "lang": "vi",
-        "id": "6495630445796108150",
+        "id": "3134568549407833471",
         "baseUrl": "https://lxmanga.space",
         "versionId": 1
       }
