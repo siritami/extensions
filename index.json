@@ -33433,10 +33433,10 @@
   {
     "name": "Tachiyomi: YuriNeko",
     "pkg": "eu.kanade.tachiyomi.extension.vi.yurineko",
-    "apk": "tachiyomi-vi.yurineko-v1.4.3.apk",
+    "apk": "tachiyomi-vi.yurineko-v1.4.4.apk",
     "lang": "vi",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "sources": [
       {
