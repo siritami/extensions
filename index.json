@@ -33595,10 +33595,10 @@
   {
     "name": "Tachiyomi: MiMiHentai",
     "pkg": "eu.kanade.tachiyomi.extension.vi.mimihentai",
-    "apk": "tachiyomi-vi.mimihentai-v1.4.3.apk",
+    "apk": "tachiyomi-vi.mimihentai-v1.4.5.apk",
     "lang": "vi",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "sources": [
       {
