@@ -34622,6 +34622,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: NetTruyenS",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyens",
+    "apk": "tachiyomi-vi.nettruyens-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "NetTruyenS",
+        "lang": "vi",
+        "id": "2440373710321443720",
+        "baseUrl": "https://nettruyen9s.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: NetTruyenViet (unoriginal)",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyenviet",
     "apk": "tachiyomi-vi.nettruyenviet-v1.4.1.apk",
