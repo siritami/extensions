@@ -28348,6 +28348,38 @@
     ]
   },
   {
+    "name": "Tachiyomi: NTK",
+    "pkg": "eu.kanade.tachiyomi.extension.ko.ntk",
+    "apk": "tachiyomi-ko.ntk-v1.4.1.apk",
+    "lang": "ko",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "NTK 웹툰",
+        "lang": "ko",
+        "id": "2180431219753503027",
+        "baseUrl": "https://sbxh1.com",
+        "versionId": 1
+      },
+      {
+        "name": "NTK 만화",
+        "lang": "ko",
+        "id": "7381471216199971485",
+        "baseUrl": "https://sbxh1.com",
+        "versionId": 1
+      },
+      {
+        "name": "NTK 동인지",
+        "lang": "ko",
+        "id": "4288744542782210705",
+        "baseUrl": "https://sbxh1.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: RawDEX",
     "pkg": "eu.kanade.tachiyomi.extension.ko.rawdex",
     "apk": "tachiyomi-ko.rawdex-v1.4.53.apk",
@@ -28414,21 +28446,21 @@
         "name": "늑대닷컴 - 웹툰",
         "lang": "ko",
         "id": "5583626852311652499",
-        "baseUrl": "https://wfwf452.com",
+        "baseUrl": "https://wfwf454.com",
         "versionId": 1
       },
       {
         "name": "늑대닷컴 - 만화책",
         "lang": "ko",
         "id": "7074060458114951398",
-        "baseUrl": "https://wfwf452.com",
+        "baseUrl": "https://wfwf454.com",
         "versionId": 1
       },
       {
         "name": "늑대닷컴 - 포토툰",
         "lang": "ko",
         "id": "4225505094399546613",
-        "baseUrl": "https://wfwf452.com",
+        "baseUrl": "https://wfwf454.com",
         "versionId": 1
       }
     ]
