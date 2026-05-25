@@ -3836,9 +3836,9 @@ mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 Seikowo(eu.kanade.tachiyomi.extension.vi.seikowoæ
 jhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.seikowo-v1.4.1.apkxhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.seikowo.png"1.4(21.4.1:;½¬¡ø²¨*Seikowovi" https://seikowo-app.blogspot.com0*ó
 SoaiCaComic,eu.kanade.tachiyomi.extension.vi.soaicacomicî
-nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.soaicacomic-v1.4.2.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.soaicacomic.png"1.4(21.4.2:7¤¨ Õ»ëÅ‰SoaiCaComicvi"https://soaicacomic2.top0*ü
+nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.soaicacomic-v1.4.2.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.soaicacomic.png"1.4(21.4.2:7¤¨ Õ»ëÅ‰SoaiCaComicvi"https://soaicacomic2.top0*ı
 Team Lanh Lung-eu.kanade.tachiyomi.extension.vi.teamlanhlungñ
-phttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.teamlanhlung-v1.4.30.apk}https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.teamlanhlung.png"1.4(21.4.30:8«²¼ÁÇàø¶Team Láº¡nh LÃ¹ngvi"https://nhalung.top0*Œ
+phttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.teamlanhlung-v1.4.31.apk}https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.teamlanhlung.png"1.4(21.4.31:9«²¼ÁÇàø¶Team Láº¡nh LÃ¹ngvi"https://lunghihi.icu0*Œ
 ThienThaiTruyen0eu.kanade.tachiyomi.extension.vi.thienthaitruyen÷
 rhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.thienthaitruyen-v1.4.1.apk€https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.thienthaitruyen.png"1.4(21.4.1:?•€×åˆ×¸³=ThienThaiTruyenvi"https://thienthaitruyen8.com0*ó
 
@@ -3886,7 +3886,7 @@ jhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 khttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.vihentai-v1.4.3.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.vihentai.png"1.4(21.4.3:1æ­¿šˆ“˜É7ViHentaivi"https://vi-hentai.moe0*í
 
 VinaHentai+eu.kanade.tachiyomi.extension.vi.vinahentaiì
-mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.vinahentai-v1.4.5.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.vinahentai.png"1.4(21.4.5:5ß±´ĞÏˆ•º?
+mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.vinahentai-v1.4.6.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.vinahentai.png"1.4(21.4.6:5ß±´ĞÏˆ•º?
 VinaHentaivi"https://vinahentai.life0*ğ
 
 VlogTruyen+eu.kanade.tachiyomi.extension.vi.vlogtruyení

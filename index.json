@@ -38481,18 +38481,18 @@
       "name": "Team Lanh Lung",
       "packageName": "eu.kanade.tachiyomi.extension.vi.teamlanhlung",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.teamlanhlung-v1.4.30.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.teamlanhlung-v1.4.31.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.teamlanhlung.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 30,
-      "versionName": "1.4.30",
+      "versionCode": 31,
+      "versionName": "1.4.31",
       "sources": [
         {
           "id": "1832370231745386795",
           "name": "Team L\u1ea1nh L\u00f9ng",
           "language": "vi",
-          "homeUrl": "https://nhalung.top",
+          "homeUrl": "https://lunghihi.icu",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
@@ -38917,12 +38917,12 @@
       "name": "VinaHentai",
       "packageName": "eu.kanade.tachiyomi.extension.vi.vinahentai",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.vinahentai-v1.4.5.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.vinahentai-v1.4.6.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.vinahentai.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 5,
-      "versionName": "1.4.5",
+      "versionCode": 6,
+      "versionName": "1.4.6",
       "sources": [
         {
           "id": "4572372176917567711",
