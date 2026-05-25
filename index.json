@@ -34636,6 +34636,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: MunTruyen",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.muntruyen",
+    "apk": "tachiyomi-vi.muntruyen-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "MunTruyen",
+        "lang": "vi",
+        "id": "8377696427566362386",
+        "baseUrl": "https://munhihi.icu",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: NetTruyenCO (unoriginal)",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyenco",
     "apk": "tachiyomi-vi.nettruyenco-v1.4.16.apk",
