@@ -3769,7 +3769,7 @@ lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 KiraKira)eu.kanade.tachiyomi.extension.vi.kirakiraè
 khttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.kirakira-v1.4.1.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.kirakira.png"1.4(21.4.1:0Íðñ²Ú„Ò‰]KiraKiravi"https://truyenkira.com*æ
 	LoppyToon*eu.kanade.tachiyomi.extension.vi.loppytoonê
-lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.loppytoon-v1.4.3.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.loppytoon.png"1.4(21.4.3:2‚»ÌÍ‰¨–©[	LoppyToonvi"https://loppytoon.com0*í
+lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.loppytoon-v1.4.4.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.loppytoon.png"1.4(21.4.4:2‚»ÌÍ‰¨–©[	LoppyToonvi"https://loppytoon.com0*í
 
 LuotTruyen+eu.kanade.tachiyomi.extension.vi.luottruyenì
 mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.luottruyen-v1.4.2.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.luottruyen.png"1.4(21.4.2:5ô”âö‚éŒ…[

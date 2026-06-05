@@ -37916,12 +37916,12 @@
       "name": "LoppyToon",
       "packageName": "eu.kanade.tachiyomi.extension.vi.loppytoon",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.loppytoon-v1.4.3.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.loppytoon-v1.4.4.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.loppytoon.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 3,
-      "versionName": "1.4.3",
+      "versionCode": 4,
+      "versionName": "1.4.4",
       "sources": [
         {
           "id": "6580420139533147522",
