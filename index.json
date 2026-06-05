@@ -37617,6 +37617,26 @@
       ]
     },
     {
+      "name": "CuuTruyen (unoriginal)",
+      "packageName": "eu.kanade.tachiyomi.extension.vi.cuutruyenmoe",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.cuutruyenmoe-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.cuutruyenmoe.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "3973269831131863421",
+          "name": "CuuTruyen (unoriginal)",
+          "language": "vi",
+          "homeUrl": "https://cuutruyen.moe",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
       "name": "DamCoNuong",
       "packageName": "eu.kanade.tachiyomi.extension.vi.damconuong",
       "resources": {
