@@ -3897,7 +3897,7 @@ VlogTruyenvi"https://vlogtruyen69.com0*ì
 
 YuriGarden+eu.kanade.tachiyomi.extension.vi.yurigardenì
 mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.yurigarden-v1.4.7.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.yurigarden.png"1.4(21.4.7:4ùêìÊ¥”…‹
-YuriGardenvi"https://yurigarden.com0*á
+YuriGardenvi"https://yurigarden.moe0*á
 YuriNeko)eu.kanade.tachiyomi.extension.vi.yurinekoè
 khttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.yurineko-v1.4.5.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.yurineko.png"1.4(21.4.5:1Ò’ÿú¹ñ¢ =YuriNekovi"https://yurinekoz.com0*è
 	ZetTruyen*eu.kanade.tachiyomi.extension.vi.zettruyenê
