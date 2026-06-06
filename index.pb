@@ -3804,7 +3804,7 @@ MiMiHentaivi"https://mimihentai.net0*ò
 MinoTruyen+eu.kanade.tachiyomi.extension.vi.minotruyenì
 mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.minotruyen-v1.4.2.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.minotruyen.png"1.4(21.4.2:<Þžæà‚Î‹ÄMinoTruyen Mangavi"https://minotruyenv5.xyz0:=Þ¥œ’´§ˆ4MinoTruyen Comicsvi"https://minotruyenv5.xyz0:=‹Êä§ÑÉ²QMinoTruyen Hentaivi"https://minotruyenv5.xyz0*ä
 	MoeTruyen*eu.kanade.tachiyomi.extension.vi.moetruyenê
-lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.moetruyen-v1.4.5.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.moetruyen.png"1.4(21.4.5:0û·ƒÍÛŒôÊx	MoeTruyenvi"https://moetruyen.net*ì
+lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.moetruyen-v1.4.4.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.moetruyen.png"1.4(21.4.4:0û·ƒÍÛŒôÊx	MoeTruyenvi"https://moetruyen.net*ì
 
 MoonTruyen+eu.kanade.tachiyomi.extension.vi.moontruyenì
 mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.moontruyen-v1.4.1.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.moontruyen.png"1.4(21.4.1:4¿¹ôÅ•§’°]
