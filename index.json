@@ -38937,18 +38937,18 @@
       "name": "VinaHentai",
       "packageName": "eu.kanade.tachiyomi.extension.vi.vinahentai",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.vinahentai-v1.4.6.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.vinahentai-v1.4.7.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.vinahentai.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 6,
-      "versionName": "1.4.6",
+      "versionCode": 7,
+      "versionName": "1.4.7",
       "sources": [
         {
           "id": "4572372176917567711",
           "name": "VinaHentai",
           "language": "vi",
-          "homeUrl": "https://vinahentai.life",
+          "homeUrl": "https://vinahentai.bond",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]

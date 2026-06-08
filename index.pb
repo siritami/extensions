@@ -3888,8 +3888,8 @@ jhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 khttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.vihentai-v1.4.3.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.vihentai.png"1.4(21.4.3:1æ­¿šˆ“˜É7ViHentaivi"https://vi-hentai.moe0*í
 
 VinaHentai+eu.kanade.tachiyomi.extension.vi.vinahentaiì
-mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.vinahentai-v1.4.6.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.vinahentai.png"1.4(21.4.6:5ß±´ĞÏˆ•º?
-VinaHentaivi"https://vinahentai.life0*ğ
+mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.vinahentai-v1.4.7.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.vinahentai.png"1.4(21.4.7:5ß±´ĞÏˆ•º?
+VinaHentaivi"https://vinahentai.bond0*ğ
 
 VlogTruyen+eu.kanade.tachiyomi.extension.vi.vlogtruyení
 nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.vlogtruyen-v1.4.28.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.vlogtruyen.png"1.4(21.4.28:6öŒ³’Âı–Y
