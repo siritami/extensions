@@ -3863,9 +3863,9 @@ qhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 
 NhatTruyen+eu.kanade.tachiyomi.extension.vi.nhattruyení
 nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.nhattruyen-v1.4.29.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.nhattruyen.png"1.4(21.4.29:4½Ô‚é©È»œ_
-NhatTruyenvi"https://nhattruyenqq.com*ó
+NhatTruyenvi"https://nhattruyenqq.com*ô
 NhentaiClub,eu.kanade.tachiyomi.extension.vi.nhentaiclubî
-nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.nhentaiclub-v1.4.1.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.nhentaiclub.png"1.4(21.4.1:7ıàÈŸåèĞ~NhentaiClubvi"https://nhentaiclub.site0*à
+nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.nhentaiclub-v1.4.2.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.nhentaiclub.png"1.4(21.4.2:8ıàÈŸåèĞ~NhentaiClubvi"https://nhentaiclub.space0*à
 Otakusic)eu.kanade.tachiyomi.extension.vi.otakusicè
 khttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.otakusic-v1.4.2.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.otakusic.png"1.4(21.4.2:0¢¾Ï‚Ä­¿’AOtakusicvi"https://otakusic.com0*×
 OTruyen(eu.kanade.tachiyomi.extension.vi.otruyenæ
@@ -3937,7 +3937,7 @@ YuriGarden+eu.kanade.tachiyomi.extension.vi.yurigardenì
 mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.yurigarden-v1.4.9.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.yurigarden.png"1.4(	21.4.9:4ùêìÊ¥”…‹
 YuriGardenvi"https://yurigarden.moe0*á
 YuriNeko)eu.kanade.tachiyomi.extension.vi.yurinekoè
-khttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.yurineko-v1.4.5.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.yurineko.png"1.4(21.4.5:1Ò’ÿú¹ñ¢ =YuriNekovi"https://yurinekoz.com0*ê
+khttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.yurineko-v1.4.6.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.yurineko.png"1.4(21.4.6:1Ò’ÿú¹ñ¢ =YuriNekovi"https://yurinekoz.com0*ê
 	ZetTruyen*eu.kanade.tachiyomi.extension.vi.zettruyenê
 lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.zettruyen-v1.4.7.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.zettruyen.png"1.4(21.4.7:6—ÚğÖÎÎ³	ZetTruyenvi"https://www.zettruyen.today*ë
 Baimangu (Darpou))eu.kanade.tachiyomi.extension.zh.baimanguè

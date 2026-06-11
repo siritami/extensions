@@ -38827,18 +38827,18 @@
       "name": "NhentaiClub",
       "packageName": "eu.kanade.tachiyomi.extension.vi.nhentaiclub",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.nhentaiclub-v1.4.1.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.nhentaiclub-v1.4.2.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.nhentaiclub.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 1,
-      "versionName": "1.4.1",
+      "versionCode": 2,
+      "versionName": "1.4.2",
       "sources": [
         {
           "id": "9124366814387777661",
           "name": "NhentaiClub",
           "language": "vi",
-          "homeUrl": "https://nhentaiclub.site",
+          "homeUrl": "https://nhentaiclub.space",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
@@ -39462,12 +39462,12 @@
       "name": "YuriNeko",
       "packageName": "eu.kanade.tachiyomi.extension.vi.yurineko",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.yurineko-v1.4.5.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.yurineko-v1.4.6.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.yurineko.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 5,
-      "versionName": "1.4.5",
+      "versionCode": 6,
+      "versionName": "1.4.6",
       "sources": [
         {
           "id": "4413681066613655890",
