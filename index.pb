@@ -3913,7 +3913,7 @@ lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 TruyenVN)eu.kanade.tachiyomi.extension.vi.truyenvné
 lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.truyenvn-v1.4.67.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.truyenvn.png"1.4(C21.4.67:0ƒ•è¤¥éáõOTruyenVNvi"https://truyenvn.sbs0*ä
 	TuiTruyen*eu.kanade.tachiyomi.extension.vi.tuitruyenê
-lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.tuitruyen-v1.4.2.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.tuitruyen.png"1.4(21.4.2:0‡¹£‰…ôÌ=	TuiTruyenvi"https://tuitruyen.top*‰
+lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.tuitruyen-v1.4.3.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.tuitruyen.png"1.4(21.4.3:0‡¹£‰…ôÌ=	TuiTruyenvi"https://tuitruyen.top*‰
 TuSachXinhXinh/eu.kanade.tachiyomi.extension.vi.tusachxinhxinhô
 qhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.tusachxinhxinh-v1.4.3.apkhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.tusachxinhxinh.png"1.4(21.4.3:A ˆºÂÕõˆ{TuSachXinhXinhvi"https://tusachxinhxinh12.online0*ç
 	UmeTruyen*eu.kanade.tachiyomi.extension.vi.umetruyenê
