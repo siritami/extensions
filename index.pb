@@ -3766,9 +3766,9 @@ HoneyMangauk"https://honey-manga.com.ua0*è
 	MangaInUa*eu.kanade.tachiyomi.extension.uk.mangainuaë
 mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-uk.mangainua-v1.4.11.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.uk.mangainua.png"1.4(21.4.11:2¼¤ÛçÌæÆ¨gMANGA/in/UAuk"https://manga.in.ua0*Ñ
 Zenko&eu.kanade.tachiyomi.extension.uk.zenkoâ
-hhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-uk.zenko-v1.4.7.apkvhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.uk.zenko.png"1.4(21.4.7:-Â¯ÿÓ©×üuZenkouk"https://zenko.online0*á
-Ariverse)eu.kanade.tachiyomi.extension.vi.ariverseè
-khttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.ariverse-v1.4.2.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.ariverse.png"1.4(21.4.2:1’ÊÊˆüÏì–>Ariversevi"https://www.arigl.xyz0*þ
+hhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-uk.zenko-v1.4.7.apkvhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.uk.zenko.png"1.4(21.4.7:-Â¯ÿÓ©×üuZenkouk"https://zenko.online0*ã
+Ariverse)eu.kanade.tachiyomi.extension.vi.ariverseé
+lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.ariverse-v1.4.52.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.ariverse.png"1.4(421.4.52:1’ÊÊˆüÏì–>Ariversevi"https://www.arigl.xyz0*þ
 BaoTangTruyen.eu.kanade.tachiyomi.extension.vi.baotangtruyenò
 phttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.baotangtruyen-v1.4.2.apk~https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.baotangtruyen.png"1.4(21.4.2::¾´îÎ¬›•ékBaoTangTruyenvi"https://baotangtruyen37.top*Õ
 CManga'eu.kanade.tachiyomi.extension.vi.cmangaä
