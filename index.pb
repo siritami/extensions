@@ -5400,7 +5400,7 @@ mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 LuvEvaLandvi"https://luvevalands2.co
 á
 LXManga)eu.kanade.tachiyomi.extension.vi.lxhentaié
-lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.lxhentai-v1.4.31.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.lxhentai.png"1.4(21.4.318B.öÎš¯Ç’ZLXMangavi"https://lxmanga.space
+lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.lxhentai-v1.4.32.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.lxhentai.png"1.4( 21.4.328B.öÎš¯Ç’ZLXMangavi"https://lxmanga.space
 Ø
 MangaVN(eu.kanade.tachiyomi.extension.vi.mangavnæ
 jhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.mangavn-v1.4.2.apkxhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.mangavn.png"1.4(21.4.2B,º¾¯•ıÄö²qMangaVNvi"https://mangavn.top
