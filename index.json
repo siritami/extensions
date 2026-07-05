@@ -31719,12 +31719,12 @@
         "name": "Wolf.com",
         "packageName": "eu.kanade.tachiyomi.extension.ko.wolfdotcom",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ko.wolfdotcom-v1.4.3.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ko.wolfdotcom-v1.4.4.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.wolfdotcom.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "3",
-        "versionName": "1.4.3",
+        "versionCode": "4",
+        "versionName": "1.4.4",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -38687,6 +38687,26 @@
             "name": "MoeTruyen",
             "language": "vi",
             "homeUrl": "https://moetruyen.net"
+          }
+        ]
+      },
+      {
+        "name": "MoeTruyenSuiCao (unoriginal)",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.moetruyensuicao",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.moetruyensuicao-v1.4.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.moetruyensuicao.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "7257946851767599928",
+            "name": "MoeTruyenSuiCao (unoriginal)",
+            "language": "vi",
+            "homeUrl": "https://moe.suicaodex.com"
           }
         ]
       },
