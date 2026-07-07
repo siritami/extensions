@@ -38990,6 +38990,26 @@
         ]
       },
       {
+        "name": "SinhSieuSao",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.sinhsieusao",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.sinhsieusao-v1.4.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.sinhsieusao.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "4780099289691520887",
+            "name": "SinhSieuSao",
+            "language": "vi",
+            "homeUrl": "https://sinhsieusao.com"
+          }
+        ]
+      },
+      {
         "name": "SoaiCaComic",
         "packageName": "eu.kanade.tachiyomi.extension.vi.soaicacomic",
         "resources": {
